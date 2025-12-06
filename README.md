@@ -67,6 +67,6 @@ Additional tools that can be useful in various scenarios.
 
 ---
 
-**Author:** r3dg0bl1n  
+**Author:** arkhyst  
 **License:** MIT (see LICENSE)  
 **Disclaimer:** Use only with explicit permission from the system owner. The author is not responsible for misuse. Unauthorized access, damage or legal consequences are your responsibility.

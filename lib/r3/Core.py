@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #======================================================================
-# Brought to you by ~ r3dg0bl1n <(¬‿¬)>
+# Brought to you by ~ arkhyst ⟨●_●⟩
 # -------------------------------- R3 ---------------------------------
 # r3-lib/Core [r3]
 # v/0.2-alpha
@@ -120,7 +120,7 @@ class Core:
                 else: goblint(self._err.get(c, "Unexpected error."))
                 if add: goblint(f"@r4@b# => @0@r1{add}")
             elif c == ERR.NO_ERROR:
-                if bye: goblint(f"\n@0@c4@b# @c2Bye bye! @c4~ @c3r3dg0bl1n <(¬‿¬)>@0")
+                if bye: goblint(f"\n@0@c4@b# @c2Bye bye! @c4~ @c3arkhyst ⟨●_●⟩@0")
         
         for pc in self._config: _=os.environ.pop(f"R3_{pc.upper()}", None)
         sys.exit(c)
@@ -137,4 +137,3 @@ class Core:
 #----------------------------------------------------------------------
 
 # =====================================================================
-# Soy español, ¿a qué quieres que te gane?
