@@ -1,11 +1,11 @@
 # R3 Package  
-**State:** not finished  
-**Version:** v0.2-alpha  
+**State:** low-rate of updates, usable tools for local experimentation.  
+**Version:** v0.1
 
-R3 Package is a portable, easy-to-use suite of ethical hacking tools aimed at beginners.  
+R3 Package is a portable and easy-to-use toolkit for offensive and defensive security.  
 The package includes `goblin_wizard.py`, a helpful interactive manual for newcomers with notes and extensive help for each r3-pkg script.
 
-> Be aware that the codebase might look confusing. Why?  
+> Be aware that variables and methods might look confusing. Why?  
 > It's designed to fit half a screen. Beyond that, it's a challenge for anyone who wants to understand how it works; myself included.
 
 ---
@@ -36,7 +36,7 @@ Each script is identified by an id (`r3XXX`): the first two digits denote the ca
 ## Categories
 
 ### _proto  
-Miscellaneous scripts under rework — candidates to be refactored or integrated into R3 Package.
+Miscellaneous scripts under rework - candidates to be refactored or integrated into R3 Package.
 
 ### r31_enum  
 Information gathering. Tools to enumerate and fingerprint targets, discover services and potential vulnerabilities.
